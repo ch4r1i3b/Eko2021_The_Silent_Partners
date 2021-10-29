@@ -1,0 +1,29 @@
+How does RSA works
+https://hackernoon.com/how-does-rsa-work-f44918df914b
+
+Trial Division Algorithm
+https://www.geeksforgeeks.org/trial-division-algorithm-for-prime-factorization/amp/
+
+Fermat's Factorization Method
+https://www.geeksforgeeks.org/fermats-factorization-method/
+
+Pollard's Factorization Method
+https://www.geeksforgeeks.org/pollards-rho-algorithm-prime-factorization/amp/
+
+Fourier Transform in qiskit
+https://leftasexercise.com/2019/02/25/implementing-the-quantum-fourier-transform-with-qiskit/
+
+Quantum Factorization
+https://towardsdatascience.com/quantum-factorization-b3f44be9d738
+
+How Quantum Computers Break Encryption | Shor's Algorithm Explained
+https://www.youtube.com/watch?v=FRZQ-efABeQ
+
+How Shor's Algorithm Factors 314191
+https://www.youtube.com/watch?v=lvTqbM5Dq4Q
+
+New largest number factored on a quantum device is 56,153
+https://phys.org/news/2014-11-largest-factored-quantum-device.html
+
+Self
+https://github.com/ch4r1i3b/Eko2021_The_Silent_Partners
